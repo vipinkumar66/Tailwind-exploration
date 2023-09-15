@@ -4,6 +4,7 @@ import Hero from './components/Hero'
 import Features from './components/Features'
 import Testimonials from './components/Testimonials'
 import CTASection from './components/CTASection'
+import Footer from './components/Footer'
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
       <Features/>
       <Testimonials/>
       <CTASection/>
+      <Footer/>
     </>
   )
 }
